@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "jcgzwbbv",
+            "connectString": "postgres://jcgzwbbv:OxLmz9pXl4tri2CKm7UtXNlw5MBundfG@jelani.db.elephantsql.com/jcgzwbbv"
+        },
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        }
+    ]
+}
